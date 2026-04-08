@@ -1,8 +1,8 @@
 """Entry point for running the package as a module.
 
 Usage:
-    python -m python_package
-    uv run python -m python_package
+    python -m instaprism
+    uv run python -m instaprism
 """
 
 from __future__ import annotations

@@ -1,1 +1,1 @@
-::: python_package
+::: instaprism
