@@ -1411,7 +1411,7 @@ wheels = [
 ]
 
 [[package]]
-name = "template-python"
+name = "instaprism"
 source = { editable = "." }
 dependencies = [
     { name = "ipykernel" },
