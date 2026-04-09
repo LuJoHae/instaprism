@@ -1,5 +1,5 @@
 [project]
-name = "template-python"
+name = "instaprism"
 dynamic = ["version"]
 description = "Add your description here"
 readme = "README.md"
